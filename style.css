@@ -29,11 +29,20 @@ i {
 }
 
 .tool-img {
-    height: 150;
+    height: 75px;
 }
 
 .landing-text {
     font-size: larger;
 
+}
+
+.about-para {
+    font-size: larger;
+}
+
+.about-img {
+    max-height: 150px;
+    max-width: 150px;
 }
 
