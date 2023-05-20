@@ -7,6 +7,7 @@ html {
 * {
     font-family: 'Montserrat', sans-serif;
     transition: ease ;
+    /* border: 1px dotted red; */
 }
 
 .profile {
@@ -29,8 +30,13 @@ i {
 }
 
 .tool-img {
+    height: 50px;
+}
+
+.tool-img-core {
     height: 75px;
 }
+
 
 .landing-text {
     font-size: larger;
@@ -45,4 +51,3 @@ i {
     max-height: 150px;
     max-width: 150px;
 }
-
