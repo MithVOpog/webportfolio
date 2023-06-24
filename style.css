@@ -21,13 +21,14 @@ i {
     font-size: xx-large;
 }
 
-.card-body img {
-    height: 176px;
+.card  img {
+    height: 8.5em;
 }
 
+/*
 .card-body {
     height: 60vh;
-}
+} */
 
 .tool-img {
     height: 50px;
@@ -50,4 +51,16 @@ i {
 .about-img {
     max-height: 150px;
     max-width: 150px;
+}
+
+.card-btn > i {
+    font-size: 1rem ;
+}
+
+.card {
+    height: 25rem;
+}
+
+.mb-2 > .tool-img {
+    height: 2.5rem;
 }
