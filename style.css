@@ -58,9 +58,14 @@ i {
 }
 
 .card {
-    height: 25rem;
+    height: 26.5rem;
 }
 
 .mb-2 > .tool-img {
     height: 2.5rem;
+}
+
+
+.card-body {
+    /* border: blue dotted 1px; */
 }
